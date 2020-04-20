@@ -1,6 +1,5 @@
 package com.clarusone.poker;
 
-
 public enum HandResult {
     TIE(0),
     WIN(1),

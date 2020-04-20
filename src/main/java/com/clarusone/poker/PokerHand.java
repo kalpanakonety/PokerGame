@@ -3,7 +3,6 @@ package com.clarusone.poker;
 import java.util.*;  
 
 public class PokerHand implements Comparable<PokerHand>
-
 {
 
 private Card[] cards;

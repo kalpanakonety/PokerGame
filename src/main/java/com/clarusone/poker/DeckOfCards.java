@@ -2,6 +2,7 @@ package com.clarusone.poker;
 
 public class DeckOfCards
 {
+	
 
    private Card[] cards;
 

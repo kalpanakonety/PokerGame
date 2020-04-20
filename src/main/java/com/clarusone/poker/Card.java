@@ -2,8 +2,6 @@ package com.clarusone.poker;
 
 public class Card implements Comparable{
 
-
-
 	   private int value;
 
 	   private String suit;
